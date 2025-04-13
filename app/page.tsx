@@ -90,7 +90,7 @@ export default function Home() {
               title="OpenWebUI"
               description="开源的网页界面，支持多种大型语言模型，提供流畅的对话体验和丰富的功能。"
               features={["开源", "多模型支持", "高度可定制"]}
-              url="http://openwebui.MAXTRNN.fun/"
+              url="http://openwebui.maxtral.fun/"
             />
 
             <ProjectCard
@@ -98,7 +98,7 @@ export default function Home() {
               title="LobeChat"
               description="新一代AI聊天助手，提供更智能的对话体验和个性化功能，支持多种场景应用。访问密码: max123"
               features={["智能对话", "个性化", "多场景"]}
-              url="http://lobechat.MAXTRNN.fun/"
+              url="http://lobechat.maxtral.fun/"
             />
 
             <ProjectCard
@@ -106,7 +106,7 @@ export default function Home() {
               title="GPTV"
               description="视觉增强型AI平台，结合文本和图像理解能力，为您提供更全面的AI交互体验。"
               features={["视觉AI", "多模态", "高级分析"]}
-              url="https://gptv.MAXTRNN.fun/"
+              url="https://gptv.maxtral.fun/"
             />
 
             <ProjectCard
@@ -114,7 +114,7 @@ export default function Home() {
               title="Flux 绘图工具"
               description="AI驱动的创意绘图平台，通过文本描述生成精美图像，释放您的创意潜能。"
               features={["AI绘图", "文本生成图像", "创意工具"]}
-              url="https://flux.MAXTRNN.fun/"
+              url="https://flux.maxtral.fun/"
             />
           </div>
         </section>
@@ -141,7 +141,7 @@ export default function Home() {
                 <span className="bg-gradient-creative text-white px-4 py-2 rounded-full text-sm font-medium">多模型支持</span>
               </div>
               <a
-                href="https://maxgpt.MAXTRNN.fun/channe"
+                href="https://maxgpt.maxtral.fun"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn bg-gradient-artistic hover:opacity-90 text-white px-6 py-3 rounded-lg inline-flex items-center justify-center transition-all shadow-md"
@@ -149,7 +149,7 @@ export default function Home() {
                 立即使用
                 <ArrowRight size={18} className="ml-2" />
               </a>
-              <div className="mt-4 text-sm text-gray-500 italic">API地址: https://maxgpt.MAXTRNN.fun/channe</div>
+              <div className="mt-4 text-sm text-gray-500 italic">API地址: https://maxgpt.maxtral.fun/v1</div>
             </div>
           </div>
         </section>
